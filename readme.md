@@ -1,0 +1,1 @@
+Basic Sinatra app with datamapper backend, heroku ready
